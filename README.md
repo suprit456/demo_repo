@@ -1,1 +1,1 @@
-This the test project created to get familiarize with GIT
+This is the test project created to get familiarize with GIT
